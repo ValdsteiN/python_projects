@@ -13,7 +13,7 @@ To play a hand of Blackjack the following steps must be followed:
     Show both of the Player's cards
     Ask the Player if they wish to Hit, and take another card
     If the Player's hand doesn't Bust (go over 21), ask if they'd like to Hit again.
-    If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or exceeds 17
+    If a Player Stands, play the Dealer's hand. The dealer will always Hit until the Dealer's value meets or       exceeds 17
     Determine the winner and adjust the Player's chips accordingly
     Ask the Player if they'd like to play again
 
